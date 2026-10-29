@@ -17,3 +17,77 @@ PSRemotingProtocolVersion: 2.3
 SerializationVersion: 1.1.0.1
 **********************
 Transcript started, output file is riwayat-terminal.txt
+PS C:\Users\USER\Documents\state_preferences> flutter run
+
+PS C:\Users\USER\Documents\state_preferences> TerminatingError(): "The pipeline has been stopped."
+>> TerminatingError(): "The pipeline has been stopped."
+PS C:\Users\USER\Documents\state_preferences> git add .
+fatal: not a git repository (or any of the parent directories): .git
+PS C:\Users\USER\Documents\state_preferences> git init
+Initialized empty Git repository in C:/Users/USER/Documents/state_preferences/.git/
+PS C:\Users\USER\Documents\state_preferences> git add .
+es it
+warning: in the working copy of 'windows/flutter/generated_plugin_registrant.cc', LF will be replac
+ed by CRLF the next time Git touches it
+warning: in the working copy of 'windows/flutter/generated_plugin_registrant.h', LF will be replace
+d by CRLF the next time Git touches it
+warning: in the working copy of 'windows/flutter/generated_plugins.cmake', LF will be replaced by C
+RLF the next time Git touches it
+PS C:\Users\USER\Documents\state_preferences> git commit -m "Menambahkan fitur state management dengan InheritedWidget dan SharedPreferences"
+
+PS C:\Users\USER\Documents\state_preferences> flutter run
+Application finished.
+PS C:\Users\USER\Documents\state_preferences> flutter run
+Windows (desktop) • windows • windows-x64    • Microsoft Windows [Version 10.0.26200.9711]
+Chrome (web)      • chrome  • web-javascript • Google Chrome 155.0.8059.85
+Edge (web)        • edge    • web-javascript • Microsoft Edge 156.0.4314.42
+[1]: Windows (windows)
+[2]: Chrome (chrome)
+[3]: Edge (edge)
+Please choose one (or "q" to quit): 2
+Launching lib\main.dart on Chrome in debug mode...
+Waiting for connection from debug service on Chrome...             28.4s
+
+Flutter run key commands.
+r Hot reload.
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+This app is linked to the debug service: ws://127.0.0.1:61104/sHRTlhN-usw=/ws
+Debug service listening on ws://127.0.0.1:61104/sHRTlhN-usw=/ws
+A Dart VM Service on Chrome is available at: http://127.0.0.1:61104/sHRTlhN-usw=
+The Flutter DevTools debugger and profiler on Chrome is available at:
+http://127.0.0.1:61104/sHRTlhN-usw=/devtools/?uri=ws://127.0.0.1:61104/sHRTlhN-usw=/ws
+Starting application from main method in: org-dartlang-app:///web_entrypoint.dart.
+Nama tersimpan: sisilya
+Email tersimpan: sisilya@gmail.com
+Terminate batch job (Y/N)? y
+PS C:\Users\USER\Documents\state_preferences> TerminatingError(): "The pipeline has been stopped."
+>> TerminatingError(): "The pipeline has been stopped."
+PS C:\Users\USER\Documents\state_preferences> flutter run
+The Flutter DevTools debugger and profiler on Chrome is available at:
+http://127.0.0.1:54070/UOWcdEzP3Go=/devtools/?uri=ws://127.0.0.1:54070/UOWcdEzP3Go=/ws
+Starting application from main method in: org-dartlang-app:///web_entrypoint.dart.
+Terminate batch job (Y/N)? ^C
+PS C:\Users\USER\Documents\state_preferences> TerminatingError(): "The pipeline has been stopped."
+>> TerminatingError(): "The pipeline has been stopped."
+PS C:\Users\USER\Documents\state_preferences> git log
+commit 838bd1298ec086598c620325a4d1181c1300cb84 (HEAD -> master)
+Author: unknown <s.leonila.students.amikom.ac.id>
+Date:   Mon Oct 26 21:25:40 2026 +0700
+
+    Menambahkan fitur state management dengan InheritedWidget dan SharedPreferences
+PS C:\Users\USER\Documents\state_preferences> git remote add origin https://github.com/lilysorlury/State_Preferences.git
+
+PS C:\Users\USER\Documents\state_preferences> git branch -M main
+
+PS C:\Users\USER\Documents\state_preferences> git push -u origin main
+Writing objects: 100% (190/190), 273.33 KiB | 13.02 MiB/s, done.
+Total 190 (delta 20), reused 190 (delta 20), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (20/20), done.
+To https://github.com/lilysorlury/State_Preferences.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
